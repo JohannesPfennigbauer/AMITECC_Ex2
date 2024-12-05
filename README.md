@@ -26,6 +26,3 @@ The LamaH dataset (LArge-SaMple DAta for Hydrology and Environmental Sciences) i
 3. Run all chunks
 
 Preprocessed data can then be found in `data/processed`.
-=======
-# AMITECC_Ex2
->>>>>>> parent of 9461032 (Preprocessing complete)
