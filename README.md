@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # AMITECC_Ex2
 
 This repository belongs to a project carried out in the course "AI/ML in the Era of Climate Change" at TU Vienna in WS2024. The goal is to train and compare several baseline models on the LamaH daily timeseries dataset and perform a feature importance study. The target variable is the Fraction of water in topsoil and subsoil "volsw_123" and "volsw_4".
