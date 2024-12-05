@@ -1,3 +1,9 @@
+<<<<<<< HEAD
+venv/
+data/
+
+=======
+>>>>>>> parent of 9461032 (Preprocessing complete)
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
