@@ -23,6 +23,8 @@ The LamaH dataset (LArge-SaMple DAta for Hydrology and Environmental Sciences) i
 
 1. Run `pip install -r requirements.txt`
 2. Open `src/preprocessing.ipynb`
-3. Run all chunks
+3. Specify the path to the dataset on your local computer
+4. Create a directory 'data/processed'
+5. Run all chunks
 
 Preprocessed data can then be found in `data/processed`.
